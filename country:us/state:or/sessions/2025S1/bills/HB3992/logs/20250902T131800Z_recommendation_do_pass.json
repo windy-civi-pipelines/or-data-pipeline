@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass.",
+    "date": "2025-09-02T13:18:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3992"
+}

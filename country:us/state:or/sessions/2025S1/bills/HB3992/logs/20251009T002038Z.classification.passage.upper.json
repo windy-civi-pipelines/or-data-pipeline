@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "President signed.",
+    "date": "2025-10-09T00:20:38+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3992"
+}

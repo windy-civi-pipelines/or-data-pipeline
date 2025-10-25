@@ -1,0 +1,282 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "HB3992",
+  "title": "Relating to state financial administration; and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Modifies an appropriation from the General Fund to the Emergency Board. Modifies limitations on expenditures for certain biennial expenses for specified state agencies. Appropriates moneys from the General Fund to specified state agencies for specified biennial expenses. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2025-08-30T03:28:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Referred to Transportation Funding.",
+      "date": "2025-08-30T03:37:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Public Hearing and Work Session held.",
+      "date": "2025-08-31T19:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2025-09-01T01:05:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2025-09-01T01:25:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Gomberg. Passed.",
+      "date": "2025-09-01T17:37:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to Transportation Funding Committee.",
+      "date": "2025-09-01T21:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2025-09-02T13:18:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2025-09-02T16:00:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Taken from 09-03 Calendar and placed on 09-17 Calendar by unanimous consent.",
+      "date": "2025-09-03T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Vote explanation(s) filed by Nguyen H.",
+      "date": "2025-09-01T17:38:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by Pham.  Passed.",
+      "date": "2025-09-29T17:06:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Thatcher declared potential conflict of interest.",
+      "date": "2025-09-29T17:07:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Carried over to 09-19 by unanimous consent.",
+      "date": "2025-09-17T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Carried over to 09-22 by unanimous consent.",
+      "date": "2025-09-19T16:03:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Carried over to 09-26 by unanimous consent.",
+      "date": "2025-09-22T17:16:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Carried over to 09-29 by unanimous consent.",
+      "date": "2025-09-26T17:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2025-10-02T21:59:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2025-10-09T00:20:38+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2025S1/Downloads/MeasureDocument/HB3992/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2025S1/Downloads/MeasureDocument/HB3992/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2025S1/Measures/Overview/HB3992",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:50Z"
+  }
+}

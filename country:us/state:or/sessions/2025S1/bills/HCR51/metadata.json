@@ -1,0 +1,233 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "HCR51",
+  "title": "Adjourning sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Adjourns sine die the 2025 special session of the Eighty-third Legislative Assembly."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2025-08-30T03:28:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Referred to Transportation Funding.",
+      "date": "2025-08-30T03:37:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2025-08-31T19:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Recommendation: Be adopted.",
+      "date": "2025-09-01T02:10:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Read. Carried by Bowman. Adopted.",
+      "date": "2025-09-01T19:24:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to Transportation Funding Committee.",
+      "date": "2025-09-01T21:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do adopt.",
+      "date": "2025-09-02T13:17:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2025-09-02T16:00:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Taken from 09-03 Calendar and placed on 09-17 Calendar by unanimous consent.",
+      "date": "2025-09-03T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Carried over to 10-01 by unanimous consent.",
+      "date": "2025-09-29T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Final reading.  Carried by Jama.  Adopted.",
+      "date": "2025-10-01T19:10:39+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2025-10-07T19:08:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2025-10-09T00:20:38+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary of State.",
+      "date": "2025-10-09T18:04:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Julie Fahey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julie Fahey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2025S1/Downloads/MeasureDocument/HCR51/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2025S1/Downloads/MeasureDocument/HCR51/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2025S1/Measures/Overview/HCR51",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:50Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+    "date": "2025-09-01T01:05:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3991"
+}
